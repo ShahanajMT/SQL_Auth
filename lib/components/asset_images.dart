@@ -1,0 +1,1 @@
+const onBoarding1 = "assets/onboarding1.png";
